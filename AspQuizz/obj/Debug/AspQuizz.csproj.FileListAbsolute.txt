@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\Web Örnekleri\AspQuizz\AspQuizz\bin\AspQuizz.dll.config
+C:\Users\Administrator\Desktop\Web Örnekleri\AspQuizz\AspQuizz\bin\AspQuizz.dll
+C:\Users\Administrator\Desktop\Web Örnekleri\AspQuizz\AspQuizz\bin\AspQuizz.pdb
+C:\Users\Administrator\Desktop\Web Örnekleri\AspQuizz\AspQuizz\obj\Debug\AspQuizz.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Web Örnekleri\AspQuizz\AspQuizz\obj\Debug\AspQuizz.dll
+C:\Users\Administrator\Desktop\Web Örnekleri\AspQuizz\AspQuizz\obj\Debug\AspQuizz.pdb
+C:\Users\Palyosemre\Desktop\AspQuizz\AspQuizz\bin\AspQuizz.dll.config
+C:\Users\Palyosemre\Desktop\AspQuizz\AspQuizz\bin\AspQuizz.dll
+C:\Users\Palyosemre\Desktop\AspQuizz\AspQuizz\bin\AspQuizz.pdb
+C:\Users\Palyosemre\Desktop\AspQuizz\AspQuizz\obj\Debug\AspQuizz.csprojResolveAssemblyReference.cache
+C:\Users\Palyosemre\Desktop\AspQuizz\AspQuizz\obj\Debug\AspQuizz.dll
+C:\Users\Palyosemre\Desktop\AspQuizz\AspQuizz\obj\Debug\AspQuizz.pdb
