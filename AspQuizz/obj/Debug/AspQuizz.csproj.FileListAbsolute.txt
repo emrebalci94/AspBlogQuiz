@@ -10,3 +10,9 @@ C:\Users\Palyosemre\Desktop\AspQuizz\AspQuizz\bin\AspQuizz.pdb
 C:\Users\Palyosemre\Desktop\AspQuizz\AspQuizz\obj\Debug\AspQuizz.csprojResolveAssemblyReference.cache
 C:\Users\Palyosemre\Desktop\AspQuizz\AspQuizz\obj\Debug\AspQuizz.dll
 C:\Users\Palyosemre\Desktop\AspQuizz\AspQuizz\obj\Debug\AspQuizz.pdb
+C:\Users\Palyosemre\Documents\GitHub\AspBlogQuiz\AspQuizz\bin\AspQuizz.dll.config
+C:\Users\Palyosemre\Documents\GitHub\AspBlogQuiz\AspQuizz\bin\AspQuizz.dll
+C:\Users\Palyosemre\Documents\GitHub\AspBlogQuiz\AspQuizz\bin\AspQuizz.pdb
+C:\Users\Palyosemre\Documents\GitHub\AspBlogQuiz\AspQuizz\obj\Debug\AspQuizz.csprojResolveAssemblyReference.cache
+C:\Users\Palyosemre\Documents\GitHub\AspBlogQuiz\AspQuizz\obj\Debug\AspQuizz.dll
+C:\Users\Palyosemre\Documents\GitHub\AspBlogQuiz\AspQuizz\obj\Debug\AspQuizz.pdb

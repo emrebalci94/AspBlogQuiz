@@ -122,6 +122,19 @@
        #Cikis{
            margin-left:30px;
        }
+       a{
+           color:gray;
+           text-decoration:none;
+           transition:color.5s linear;
+        
+       }
+       a:visited{
+           color:gray;
+       }
+       a:hover{
+           text-decoration:underline;
+           color:aqua;
+       }
     </style>
     <script>
         $(document).ready(function () {
@@ -156,7 +169,7 @@
                         <ItemTemplate><li><%# Eval("KonuAd") %>
                             <ul style="list-style:none">
                                 <asp:Repeater runat="server" ID="repeater2">
-                                    <ItemTemplate><li> <%# Eval("AltKonuAd") %></li></ItemTemplate>
+                                    <ItemTemplate><li><a href='MasterDefault.aspx?altID=<%# Eval("AltId") %>'> <%# Eval("AltKonuAd") %></a></li></ItemTemplate>
                                 </asp:Repeater>
                                </ul>
                                       </li></ItemTemplate>
@@ -165,7 +178,7 @@
                     
                 </ul>
             </div>
-            <div id="SayfaYeri">
+            <div id="SayfaYeri" >
                 <asp:PlaceHolder runat="server" ID="bodyYer"/>
             </div>
             <div id="Hakkimzda" runat="server">

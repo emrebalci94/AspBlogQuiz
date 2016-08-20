@@ -24,6 +24,16 @@ namespace AspQuizz
         }
         protected void Page_Load(object sender, EventArgs e)
         {
+            if (IsPostBack)
+            {
+                return;
+            }
+
+            if (Request.QueryString["altId"]!=null)
+            {
+                Control ctrl = LoadControl("AltKategori.ascx");
+                bodyYer.Controls.Add(ctrl);
+            }
 
             SqlDataAdapter adtr = new SqlDataAdapter("Select * From Konu", baglanti);
             DataTable t = new DataTable();
